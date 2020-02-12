@@ -1,0 +1,13 @@
+.Header > ul {
+  list-style: none;
+}
+
+.Header > ul > li {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.Header > ul > li > a {
+  text-decoration: none;
+}
